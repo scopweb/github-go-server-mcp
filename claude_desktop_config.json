@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "github-mcp": {
+      "command": "C:\\MCPs\\clone\\github-go-server-mcp\\github-mcp.exe",
+      "args": [],
+      "env": {
+        "GITHUB_TOKEN": "your_github_token_here"
+      }
+    }
+  }
+}
